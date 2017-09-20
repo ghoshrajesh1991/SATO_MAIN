@@ -1,1 +1,0 @@
-﻿var __testDataSource={items:[{dataFilePath:'Default.xls',dataFileFormat:'excel',dataFileFolder:'C:\\SATO_MAIN\\Layer_Test\\TestScripts\\SATO\\Res1',namePairs:[]}]};
