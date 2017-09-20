@@ -1,0 +1,4 @@
+﻿<Properties>
+  <WatchEntry0 value="asColumnNames" />
+  <WatchEntry1 value="oExcelDic.Item(asColumnNames(iColumnNameIterator))" />
+</Properties>
